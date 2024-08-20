@@ -11,10 +11,7 @@
       <p
         class="lg:text-base text-sm text-white font-thin text-center pt-8 max-w-[100ch] mx-auto"
       >
-        Feel free to reach out to us for any inquiries, reservations, or
-        feedback. Our dedicated team at Sueen Nature Resort is here to assist
-        you and ensure that your experience with us is nothing short of
-        exceptional.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui exercitationem eaque consectetur tempora ut cupiditate! Minima dolore illo, excepturi repellat nulla corrupti sapiente! Quia odit esse vel quibusdam. Laborum, voluptatem?
       </p>
       <div class="flex justify-center items-center">
         <a

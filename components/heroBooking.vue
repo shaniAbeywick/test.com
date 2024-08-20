@@ -198,7 +198,7 @@
   <div class="relative">
     <!-- hero image of Checkout page -->
     <img
-      src="/img/hero-booking.jpg"
+      src="/img/hero-about.jpg"
       alt="hero-rooms-Img"
       class="w-full z-10 object-cover min-h-screen lg:min-h-0"
     />
